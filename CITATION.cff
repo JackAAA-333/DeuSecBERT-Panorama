@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "DeuSecBERT-Panorama: 德国安全话语计算建模与全景图谱研究"
+authors:
+  - family-names: Liang
+    given-names: Shanshan
+  - family-names: Li
+    given-names: Zefang
+type: software
+year: 2026
+url: 
